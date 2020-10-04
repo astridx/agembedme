@@ -22,6 +22,15 @@ file. For example
     // example.ts
     ```
 
+or 
+
+    ```php
+    // https://raw.githubusercontent.com/astridx/embedme/master/test/fixtures/snippets/sample.php
+
+    ```
+
+
+
 Next, run the following
 
 ```bash
